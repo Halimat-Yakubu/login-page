@@ -1,0 +1,41 @@
+body{
+    background-color: lightcyan;
+}
+
+.signupbox{
+    background-color: rgb(29, 49, 49);
+    padding: 50px;
+    margin-top: 130px;
+    margin-left: 460px;
+    width: 400px;
+    color: antiquewhite;
+}
+
+.signupbox , img{
+    text-align: center;
+}
+
+form{
+    padding: 15px;
+}
+
+label{
+    display: block;
+    text-align: left;
+}
+
+input{
+    display: block;
+    padding: 5px;
+    background-color: ghostwhite;
+    width: 100%;
+    border-style: none;
+}
+
+button{
+    width: 100%;
+    background-color: darkseagreen;
+    height: 30px;
+    border-radius: 20px;
+
+}
